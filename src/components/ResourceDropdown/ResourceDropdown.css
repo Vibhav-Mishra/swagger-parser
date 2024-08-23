@@ -1,0 +1,10 @@
+.resource-dropdown {
+    margin-top: 20px;
+  }
+  
+  .resource-dropdown select {
+    padding: 10px;
+    width: 100%;
+    border-radius: 5px;
+  }
+  

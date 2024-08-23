@@ -1,0 +1,36 @@
+.form-container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+    margin-top: -15px;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    
+  }
+  h1{
+    margin-top: 0px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    background: #2b50f82c;
+    color: #0b0b0b;
+  }
+  .file-form {
+    width: 40%;
+  }
+  
+  .try-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .error-message {
+    color: red;
+    margin-top: 20px;
+  }
+  

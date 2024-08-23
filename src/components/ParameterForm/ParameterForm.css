@@ -1,0 +1,28 @@
+.parameter-form {
+    width: 50%;
+    margin-top: 5px;
+    gap: 5%;
+    /* color: #4CAF50; */
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .parameter-form .parameter-item {
+    flex: 1;
+    margin-right: 10px;
+  }
+  
+  .parameter-form input, .parameter-form select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+  }
+  
+  .parameter-form button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
